@@ -30,7 +30,7 @@ This Tableau dashboard visualizes **player statistics from the 2022 NFL season**
 ### 📌 Future Improvements  
 🔹 Add interactive tooltips for deeper player insights.  
 🔹 Incorporate historical trends for multi-season comparison.  
-🔹 Expand the dataset to include offensive and special teams stats.  
+🔹 Expand the dataset to include offensive and special teams stats. 
 
 ### 🔗 Tableau Public Link  
 [**View Dashboard on Tableau Public**](#) *(Replace with actual link)*  
